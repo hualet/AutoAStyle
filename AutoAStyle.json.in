@@ -1,0 +1,12 @@
+{
+    \"Name\" : \"AutoAStyle\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"Hualet\",
+    \"Copyright\" : \"Hualet Wang\",
+    \"License\" : \"Do what you want.\",
+    \"Description\" : \"Auomatically format your code using astyle on the fly.\",
+    \"Url\" : \"\",
+    $$dependencyList
+}
+
